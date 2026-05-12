@@ -1,0 +1,9 @@
+"hub_id","hub_name","zone","hub_type","deliveries","on_time_rate","delay_rate","fail_rate","avg_rating","avg_overrides","avg_cost"
+"H08","Midtown Relay","Central","Charging",128,0.625,0.172,0.203,3.88,1.11,11.71
+"H05","Central Core","Central","Control",115,0.583,0.217,0.2,3.67,0.95,13.69
+"H06","Airport Hub","Airport","Dispatch",104,0.596,0.26,0.144,3.88,0.91,13.32
+"H04","West Gate","West","Dispatch",127,0.654,0.22,0.126,3.92,0.87,13.17
+"H01","North Exchange","North","Dispatch",136,0.684,0.191,0.125,3.84,1.03,12.76
+"H07","Riverside Hub","Riverside","Warehouse",115,0.661,0.217,0.122,3.88,1.05,12.92
+"H02","South Link","South","Dispatch",106,0.66,0.245,0.094,3.95,0.92,12.57
+"H03","East Dock","East","Warehouse",119,0.714,0.193,0.092,3.9,0.89,12.74
